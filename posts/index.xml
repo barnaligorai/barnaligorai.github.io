@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My First Hugo Site</title><link>https://barnaligorai.github.io/posts/</link><description>Recent content in Posts on My First Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 17:52:48 +0530</lastBuildDate><atom:link href="https://barnaligorai.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>About This Site</title><link>https://barnaligorai.github.io/posts/my-first-post/</link><pubDate>Sat, 27 Aug 2022 17:52:48 +0530</pubDate><guid>https://barnaligorai.github.io/posts/my-first-post/</guid><description>Hi. This is Barnali Gorai. This is my first post on this site.
-I have created this site using hugo. Started with the Ananke theme. Hosted the site on github.
-Hugo is super easy to start with. Because there is no database, no plugins requiring any permissions.
-By default hugo serves on : http://localhost:1313
-Create a new site with : hugo new site site-name
-To change the site open config.toml and edit settings such as the blog&amp;rsquo;s title, copyright, name, your social network links, etc.</description></item></channel></rss>
