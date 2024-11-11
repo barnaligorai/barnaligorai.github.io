@@ -40,14 +40,14 @@ It cost me around :
 
 There are many staying options like resort, hotel, homestay and even hostels.
 We stayed in : Holidayincoorg Leisure Homes.
-Though 2 persons in each room were allowed, we were 5 in count, still they allowed us and we had a lot of fun satying there. Rooms are clean and spacious.
+Though 2 persons in each room were allowed, we were 5 in count, still they allowed us and we had a lot of fun staying there. Rooms are clean and spacious.
 
 It cost us around 650 INR per person.
 
 
 ### How to roam around
 
-Renting two-wheeler is the most popular way to roam around there. But none of us were carrying license, so we roamed in bus, auto and cab. The homestay host arranged the auto and cab for us. After the trip, we have realized that the trip was so smooth and husslefree because we didn't have to ride or drive on those roads filled with hairpin loops.
+Renting two-wheeler is the most popular way to roam around there. But none of us were carrying license, so we roamed in bus, auto and cab. The homestay host arranged the auto and cab for us. After the trip, we have realized that the trip was so smooth and hassle-free because we didn't have to ride or drive on those roads filled with hairpin loops.
 
 We paid :
   - Bus : 56 INR pp to go to Talacauvery Temple from Madikeri Town (return is also same)

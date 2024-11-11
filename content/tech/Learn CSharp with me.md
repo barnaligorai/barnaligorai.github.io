@@ -73,7 +73,7 @@ Then there is also primitive and non-primitive types.
   C# provides operators to perform arithmetic, logical, bitwise, shift operations, equality and order comparisons.
 
   Examples of operators include + , - , * , /, % etc.
-  Examples of operands include literals, fields, local variables,and expressions.
+  Examples of operands include literals, fields, local variables, and expressions.
   
   - When an expression contains multiple operators, the precedence of the operators controls the order in which the individual operators are evaluated.
     - For example : 

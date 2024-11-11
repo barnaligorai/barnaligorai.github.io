@@ -20,7 +20,7 @@ Things we can keep in mind while thinking about single responsibility : 1. Cohes
 
 Example :
 
-A sqare class with different types of methods like : CalculateArea, CalculatePerimeter, Draw, Rotate
+A square class with different types of methods like : CalculateArea, CalculatePerimeter, Draw, Rotate
 ```c#
 class Square
     {
@@ -56,7 +56,7 @@ class Square
         }
     }
 ```
-The above mentioned code can be more meaningful if we increase the level of cohision and separate them into two class, such as :
+The above mentioned code can be more meaningful if we increase the level of cohesion and separate them into two class, such as :
 
 ```c#
 public class Square

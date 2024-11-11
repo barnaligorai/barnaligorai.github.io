@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Explore an *amazing musical experience* at Indian Music Experience Museum, Bangalore.
+Explore an *amazing musical experience* at Indian Music Experience Museum (IME), Bangalore.
 ![IME](/images/travel/ime/IndianMusicExperience.jpeg)
 ![instruments](/images/travel/ime/instrument_gallary.jpeg)
 ![pictures](/images/travel/ime/pictures.jpg)

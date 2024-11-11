@@ -1,10 +1,10 @@
 ---
-title: "About This Site"
+title: About This Site
 date: 2022-08-27T17:52:48+05:30
-featured_image: '/images/tech_cover.jpeg'
-description: "Now blogging is a piece of cake."
-draft: false
-tags: 
+featured_image: /images/tech_cover.jpeg
+description: Now blogging is a piece of cake.
+draft: true
+tags:
   - Tech
   - Hugo
 ---
