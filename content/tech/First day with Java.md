@@ -8,7 +8,7 @@ tags:
   - Tech
   - Java
 ---
-
+# Java
 Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 At first, Java code goes through compilation process. Java code is compiled into byte code. Then byte code is ran by JVM (Java Virtual Machine). JVM along with System Library makes JRE (Java Runtime Environment). The compiler along with the JRE makes JDK (Java Development Kit).
