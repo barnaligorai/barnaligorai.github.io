@@ -1,11 +1,11 @@
 ---
-title: "Learn C# With Me"
+title: Learn C# With Me
 date: 2022-10-07T10:42:46+05:30
-featured_image: '/images/tech_cover.jpeg'
-description: "C# concepts"
+featured_image: /images/tech_cover.jpeg
+description: C# concepts
 draft: false
-tags: 
-  - tech
+tags:
+  - Tech
 ---
 
 # C# and .NET
