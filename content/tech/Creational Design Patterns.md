@@ -4,7 +4,7 @@ tags:
 aliases: 
 created: 2024-10-16 22:43
 last updated: 2024-10-16 22:43
-draft: true
+draft: false
 ---
 # Creational Design Patterns
 

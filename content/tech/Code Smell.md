@@ -4,7 +4,7 @@ tags:
 aliases: 
 created: 2024-11-26 22:05
 last updated: 2024-11-26 22:05
-draft: true
+draft: false
 ---
 # Code Smell
 
