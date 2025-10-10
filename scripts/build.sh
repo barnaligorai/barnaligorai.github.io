@@ -18,8 +18,8 @@ cp ../quartz.layout.ts .
 
 # linking the content
 
-rm content
-rm -r public
+rm -rf content
+rm -fr public
 
 ln -s ../content content
 
